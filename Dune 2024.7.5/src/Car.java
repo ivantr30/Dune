@@ -1,0 +1,14 @@
+
+public class Car extends Unit {
+
+	public Car(int x, int y) {
+		super(x, y, Block.SIZE, 0);
+		main.addFrame(1);
+		main.addFrame(2);
+		main.addFrame(3);
+
+	
+	}
+
+	
+}
